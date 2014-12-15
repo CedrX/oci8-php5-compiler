@@ -1,0 +1,148 @@
+Package: php5
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-cgi
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-cli
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-common
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-curl
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-dbg
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-dev
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-gd
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-gmp
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-imap
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-interbase
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-ldap
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-mcrypt
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-mhash
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-mysql
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-oci8
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-odbc
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-pgsql
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-pspell
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-recode
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-snmp
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-sqlite
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-sybase
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-tidy
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-xmlrpc
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php5-xsl
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: php-pear
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: libapache2-mod-php5
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: libapache2-mod-php5filter
+Pin: release a=squeeze,c=main
+Pin: origin debinist.intra.domain.fr
+Pin-Priority: 1001
+
+Package: *
+Pin: origin debian.intra.domain.fr
+Pin-Priority: 500
